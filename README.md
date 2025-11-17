@@ -20,9 +20,9 @@ Exibe os resultados em DataFrames organizados para análise.
 
 🧰 Tecnologias utilizadas
 
-PySpark
+- PySpark
 
-Databricks
+- Databricks
 
 ✔️ Resultado
 
